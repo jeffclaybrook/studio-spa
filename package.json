@@ -1,0 +1,8 @@
+{
+    "name": "youtube-studio",
+    "version": "1.0.0",
+    "description": "YouTube Studio using MDC3 and basic folder structure",
+    "main": "index.js",
+    "author": "Jeff Claybrook",
+    "license": "ISC"
+}
